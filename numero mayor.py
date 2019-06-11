@@ -3,7 +3,7 @@ NOMBRE:Fernando Hernandez Vazquez
 ID:1719210003
 DATE:11/06/2019
 GROUP:TIC22
-DESCRIPTION:imprime el numero mayor. V1
+DESCRIPTION:imprime el numero mayor. Version 1
 """
 n1=input()
 n2=input()
